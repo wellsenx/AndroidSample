@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitHub\AndroidSampleProjetcs\DailySelfie\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\GitHub\AndroidSampleProjetcs\DailySelfie\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4ef969733b05f508c7ab00a7b9c0da0a07e8764d.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\AndroidSampleProjetcs\DailySelfie\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\GitHub\AndroidSampleProjetcs\DailySelfie\app\build\intermediates\pre-dexed\debug\classes-a10bff24366ce4860c11fa2cb15def57062e9723.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\GitHub\AndroidSampleProjetcs\DailySelfie\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-aa16b3cf885393ef74ba8407c65bcf20627dd05b.jar" />
+    </item>
+
+</items>
